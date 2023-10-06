@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.kotak{
+    width: 550px;
+    height: 540px;
+    margin: -580px 0px 50px 800px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, .75);
+}
+
+.img{
+    float: left;
+}
+
+.text-login h1{
+    padding-top: 30px;
+    font-size: 32px;
+}
+
+.text-login span{
+    color: blue;
+}
+
+.text-login h3{
+    padding-top: 30px;
+}
+
+.text-login p{
+    padding-bottom: 20px;
+}
+
+.form-control{
+    width: 100%;
+    padding: 18px;
+    border: 2px solid black;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-lgn{
+    text-align: center;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border-radius: 40px;
+    padding: 18px;
+    font-size: 20px;
+}
